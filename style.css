@@ -1,0 +1,29 @@
+ul{
+    list-style-type: none;
+     
+}
+.c1{
+    text-decoration: none;
+    padding:10px;
+    color:white;
+    border:solid white;
+    border-radius: 10px;
+    background-color: rgb(93, 9, 87);
+}
+li{
+
+
+    float:right;
+    margin:auto;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+nav{
+    position:absolute;
+    height: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    top:1%;
+    right:1%;
+
+}
